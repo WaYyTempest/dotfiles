@@ -1,0 +1,8 @@
+[user]
+	name = username
+	email = your@mail.com
+[core]
+	autocrlf = true
+	editor = codium --wait
+[init]
+	defaultBranch = main
