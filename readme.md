@@ -35,7 +35,7 @@ Command-line tools and prompt customization used to enhance developer workflow:
 
 - **🔧 Git:** [Git](https://git-scm.com/) → [config](configs/git/)
 - **⚡ Fastfetch:** [Fastfetch](https://github.com/fastfetch-cli/fastfetch) → [config](configs/fastfetch/)
-- **🎨 Oh My Posh:** [OhMyPosh](https://ohmyposh.dev/)
+- **🎨 Oh My Posh:** [OhMyPosh](https://ohmyposh.dev/) → [config](https://github.com/ChrisTitusTech/powershell-profile)
 - **📄 PowerShell Profile:** [config](configs/powershell/)
 
 ## 📚 Credits
