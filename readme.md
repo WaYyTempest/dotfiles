@@ -1,4 +1,4 @@
-<h1 align="center"> 👺 Windows 11 </h1>
+<h1 align="center"> 👺 Windows 11 dotfiles</h1>
 
 This project is also available on my self-hosted [Gitea instance](https://git.wayy.fr/WaYy/dotfiles), where it is updated more frequently than on GitHub for convenience.
 
