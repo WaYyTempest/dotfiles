@@ -1,9 +1,3 @@
-# 🪟 GlazeWM - User Guide
-
-## 📋 Introduction
-
-GlazeWM is a tiling window manager for Windows that allows you to organize your windows efficiently and productively. This guide explains how to use all the commands configured in your setup.
-
 ## 🎯 Main Features
 
 - **Tiling Management** : Automatically organizes your windows
@@ -136,13 +130,3 @@ The configuration file is located in `config.yaml`. Main sections:
 - `workspaces` : Workspace definitions
 - `window_rules` : Window rules
 - `keybindings` : Keyboard shortcuts
-
-## 📚 Useful Resources
-
-- [Official GlazeWM Documentation](https://glazewm.com/)
-- [GlazeWM GitHub](https://github.com/lars-berger/GlazeWM)
-- [GlazeWM Wiki](https://github.com/lars-berger/GlazeWM/wiki)
-
----
-
-_Custom configuration for an optimal desktop experience_ 🚀
