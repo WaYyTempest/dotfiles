@@ -104,9 +104,10 @@ window_rules:
       - window_process: { equals: "Bitwarden" }
       - window_process: { equals: "Lightshot" }
       - window_process: { equals: "SnippingTool" }
+      - window_process: { equals: "steamwebhelper" }
       - window_process: { equals: "Cider" }
       - window_process: { equals: "Ditto" }
-      - window_process: { equals: "Wallpaper Engine" }
+      - window_process: { equals: "ui32" }
       - window_process: { equals: "PowerToys" }
         window_class: { regex: 'HwndWrapper\[PowerToys\.PowerAccent.*?\]' }
       - window_process: { equals: "PowerToys" }
@@ -139,21 +140,9 @@ keybindings:
   - commands: ["wm-toggle-pause"]
     bindings: ["alt+shift+p"]
 
-  # Change the focused window to be floating.
-  - commands: ["toggle-floating --centered"]
-    bindings: ["alt+shift+space"]
-
   # Change the focused window to be tiling.
   - commands: ["toggle-tiling"]
     bindings: ["alt+t"]
-
-  # Change the focused window to be fullscreen.
-  - commands: ["toggle-fullscreen"]
-    bindings: ["alt+f"]
-
-  # Minimize focused window.
-  - commands: ["toggle-minimized"]
-    bindings: ["alt+m"]
 
   # Kill GlazeWM process safely.
   - commands: ["wm-exit"]
